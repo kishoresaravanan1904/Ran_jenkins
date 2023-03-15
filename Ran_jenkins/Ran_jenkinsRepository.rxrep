@@ -1,0 +1,61 @@
+﻿<repository
+id="52bb8da4-813b-4117-8514-e525f7065580"
+name="Ran_jenkinsRepository">
+	<codegen
+	classname="Ran_jenkinsRepository"
+	namespace="Ran_jenkins">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="79040f13-bd53-492d-a080-e66dc4e4f4b6"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="3eeded0f-92fd-43a9-9fe5-127dd46f50a4"
+		isrooted="True"
+		name="RanorexStudioDemoApplication"
+		refpath="/form[@title='Ranorex Studio Demo Application']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="270f8dba-3ce7-496f-b427-52a895ac019d"
+			name="Element1114744"
+			refimgid="cbb12b5c-f989-4313-a3d7-1344eaa322f4"
+			refpath="/form[@title>'Ranorex Studio Demo Appli']/element[@automationid='1']/element[@automationid='393902']/element[@automationid='1114744']"
+			robustPath="/form[@title>'Ranorex Studio Demo Appli']//element[@automationid='1114744']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Ranorex Studio Demo Appli']/element[@automationid='1']/?/?/element[@automationid='1114744']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="b8b16790-e539-410a-a61f-15c43c0505ed"
+			name="Element592262"
+			refimgid="2b920399-75d3-45fe-bdb2-4bfb73cd1e57"
+			refpath="/form[@title>'Ranorex Studio Demo Appli']/element[@automationid='1']/element[@automationid='393902']/element[@automationid='592262']"
+			robustPath="/form[@title>'Ranorex Studio Demo Appli']//element[@automationid='592262']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Ranorex Studio Demo Appli']/element[@automationid='1']/?/?/element[@automationid='592262']
+			</item>
+			<basepath>
+				/form[@title&gt;'Ranorex Studio Demo Appli']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAABgSURBVDhPY4CBwMBAv+Dg4P/EYqg2BMAqSAqA
+GXCfVejWA1bhB7jwfTbhI2AN6IAqLiAFg8IMqhUCQIJQJkEAVNuMoZ4UA0Bg1IDhawAQN0O5eAFI
+HYYBpGZnSFJmYAAA/3CKJU4BKYIAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

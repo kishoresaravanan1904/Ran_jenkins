@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="Ran_jenkins"
+      id="60a434a2-73c1-41ed-bbfc-fcc7e635f396"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="Ran_jenkins"
+      id="60a434a2-73c1-41ed-bbfc-fcc7e635f396"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
